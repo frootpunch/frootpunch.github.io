@@ -7,4 +7,4 @@
 <body>
 <h1>hello!</h1>
 
-<a href="http://pokerouge.net">Link text</a>
+<a href="pokerouge.net">Link text</a>
